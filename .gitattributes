@@ -1,6 +1,6 @@
-Assets/TextMesh?Pro/* linguist-vendored
-Assets/Materials/* linguist-vendored
-Assets/Prefabs/* linguist-vendored
-Assets/Scenes/* linguist-vendored
-Packages/* linguist-vendored
-ProjectSettings/* linguist-vendored
+Assets/TextMesh?Pro/** linguist-vendored
+Assets/Materials/** linguist-vendored
+Assets/Prefabs/** linguist-vendored
+Assets/Scenes/** linguist-vendored
+Packages/** linguist-vendored
+ProjectSettings/** linguist-vendored
